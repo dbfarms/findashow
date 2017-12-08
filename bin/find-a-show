@@ -2,5 +2,3 @@
 require './lib/findashow'
 
 Findashow::CLI.new.call
-
-puts "Find a show?"
